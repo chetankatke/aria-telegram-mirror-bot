@@ -39,6 +39,7 @@ Aria-telegram-mirror-bot is now written in TypeScript. If you are migrating from
    * Create a new folder. The bot will upload files inside this folder.
    * Open the folder.
    * The URL will be something like `https://drive.google.com/drive/u/0/folders/012a_345bcdefghijk`. Copy the part after `folders/` (`012a_345bcdefghijk`). This is the `GDRIVE_PARENT_DIR_ID` that you'll need in step 5 of the Installation section.
+   * OR just put root.
 
 ## Installation
 
