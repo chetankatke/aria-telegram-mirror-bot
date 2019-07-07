@@ -1,1 +1,0 @@
-worker: mkdir down && ./aria.sh && npm start
