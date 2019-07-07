@@ -1,8 +1,8 @@
 module.exports = Object.freeze({
     TOKEN: '809373319:AAFJbnYTjKSXpUuGl6cee5ZhB-LyIllnppI',
     ARIA_SECRET: '1',
-    ARIA_DOWNLOAD_LOCATION: '/home/c_katke/down',
-    ARIA_DOWNLOAD_LOCATION_ROOT: '/home/c_katke',
+    ARIA_DOWNLOAD_LOCATION: '/app/down',
+    ARIA_DOWNLOAD_LOCATION_ROOT: '/app',
     ARIA_FILTERED_DOMAINS: [],
     ARIA_FILTERED_FILENAMES: [],
     GDRIVE_PARENT_DIR_ID: '1eVJgFaCCihll-msqM06hId3goU5DY5Fq',
