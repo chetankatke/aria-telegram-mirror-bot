@@ -3,7 +3,7 @@ import readline = require('readline');
 import { google } from 'googleapis';
 import { OAuth2Client } from 'google-auth-library';
 
-const SCOPE = 'https://www.googleapis.com/auth/drive';
+const SCOPE = 'https://www.googleapis.com/auth/drive.file';
 const TOKEN_PATH = './credentials.json';
 
 /**
